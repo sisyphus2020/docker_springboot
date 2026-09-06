@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Hello, Docker gradle 빌드";
+        return "Hello, Docker gradle 빌드 + volume mount";
     }
 }
