@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.nami'
-version = 'gradle 0.0.1'
+version = 'gradle-0.0.1'
 
 java {
 	toolchain {
